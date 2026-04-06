@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>package.mbk.vehicles</name>
+    </assembly>
+    <members>
+        <member name="P:Mbk.Vehicles.Resources.WheelOption.Scale">
+            <summary>
+            This define the default scale of this wheel for the car assigned.
+            </summary>
+        </member>
+        <member name="M:Mbk.Vehicles.Vehicles.ShowHud(Sandbox.To)">
+            <param name="toTarget">Who to send the message to.</param>
+        </member>
+        <member name="M:Mbk.Vehicles.Vehicles.HideHud(Sandbox.To)">
+            <param name="toTarget">Who to send the message to.</param>
+        </member>
+    </members>
+</doc>
